@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am recently graduate from Dallas College in Computer Information Technology<br>with specialization as Software Programmer/Developer
+I am recently graduate from Dallas College in Computer Information Technology<br>with specialization as Software Programmer/Developer.
+Currently Software Engineer Fellow at Bright Path Program sponsored by Perficient Company
 
 
 ## 🌐 Socials:
